@@ -1,6 +1,6 @@
 <div align="center">
-	<img width="30%" src="__________" alt="O banner do projeto vai aqui">
-	<h1>Meu Projeto</h1>
+	<img width="30%" src="https://tse3.mm.bing.net/th/id/OIP.uWIwrYc9QfVG_tJ6dJnWXQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="O banner do projeto vai aqui">
+	<h1>Projeto de Dados S4</h1>
 </div>
 
 ## Documentações
